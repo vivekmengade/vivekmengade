@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vivek Mengade 👋</h1>
+<h1 align="center">Hi Coders, I'm Vivek Mengade 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EFFBC&width=435&lines=Full-Stack+Java+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%94%A5;Learning+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
